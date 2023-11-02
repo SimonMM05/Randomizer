@@ -1,0 +1,14 @@
+D:\Programming\Randomizer\bin\Debug\net7.0\Randomizer.exe
+D:\Programming\Randomizer\bin\Debug\net7.0\Randomizer.deps.json
+D:\Programming\Randomizer\bin\Debug\net7.0\Randomizer.runtimeconfig.json
+D:\Programming\Randomizer\bin\Debug\net7.0\Randomizer.dll
+D:\Programming\Randomizer\bin\Debug\net7.0\Randomizer.pdb
+D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.AssemblyInfoInputs.cache
+D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.AssemblyInfo.cs
+D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.csproj.CoreCompileInputs.cache
+D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.dll
+D:\Programming\Randomizer\obj\Debug\net7.0\refint\Randomizer.dll
+D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.pdb
+D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.genruntimeconfig.cache
+D:\Programming\Randomizer\obj\Debug\net7.0\ref\Randomizer.dll
