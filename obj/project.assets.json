@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Randomizer\\Randomizer.csproj",
+      "projectUniqueName": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\Randomizer.csproj",
       "projectName": "Randomizer",
-      "projectPath": "D:\\Programming\\Randomizer\\Randomizer.csproj",
+      "projectPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\Randomizer.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Randomizer\\obj\\",
+      "outputPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"

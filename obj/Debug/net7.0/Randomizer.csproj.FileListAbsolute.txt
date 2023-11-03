@@ -12,3 +12,17 @@ D:\Programming\Randomizer\obj\Debug\net7.0\refint\Randomizer.dll
 D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.pdb
 D:\Programming\Randomizer\obj\Debug\net7.0\Randomizer.genruntimeconfig.cache
 D:\Programming\Randomizer\obj\Debug\net7.0\ref\Randomizer.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\bin\Debug\net7.0\Randomizer.exe
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\bin\Debug\net7.0\Randomizer.deps.json
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\bin\Debug\net7.0\Randomizer.runtimeconfig.json
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\bin\Debug\net7.0\Randomizer.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\bin\Debug\net7.0\Randomizer.pdb
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\Randomizer.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\Randomizer.AssemblyInfo.cs
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\Randomizer.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\refint\Randomizer.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\Randomizer.pdb
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\Randomizer.genruntimeconfig.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\Randomizer\obj\Debug\net7.0\ref\Randomizer.dll
