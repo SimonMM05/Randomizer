@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\Randomizer.csproj": {}
+    "D:\\Programming\\Randomizer\\Randomizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\Randomizer.csproj": {
+    "D:\\Programming\\Randomizer\\Randomizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\Randomizer.csproj",
+        "projectUniqueName": "D:\\Programming\\Randomizer\\Randomizer.csproj",
         "projectName": "Randomizer",
-        "projectPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\Randomizer.csproj",
+        "projectPath": "D:\\Programming\\Randomizer\\Randomizer.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Randomizer\\obj\\",
+        "outputPath": "D:\\Programming\\Randomizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
