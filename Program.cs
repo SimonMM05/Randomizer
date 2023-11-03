@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("Hello! Welcome to my program. This program allows you to generate a random number between 0-100.");
-        Console.WriteLine("_______________________________________________________________________________________________");
+        Console.WriteLine("________________________________________________________________________________________________");
         
         while (true)
         {
