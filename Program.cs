@@ -21,7 +21,7 @@ class Program
                 Random random = new Random();
                 int random_number = random.Next(101);
                 Console.WriteLine("Random number = " + random_number);
-                Console.WriteLine("Press 'c' key to continue or any other key to exit.");
+                Console.WriteLine("Enter 'c' to generate another number or any other key to exit.");
                 string continueInput = Console.ReadLine().ToLower();
 
                 if (continueInput != "c")
